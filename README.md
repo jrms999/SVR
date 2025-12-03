@@ -138,3 +138,21 @@ A pilot site: e.g. one residence (or a single floor / group) for a 6–12 week p
 Feedback loop: agreement on how we collect feedback and iterate (e.g. short surveys, monthly check-in with staff).
 
 With these in place, we can rapidly build a simple but meaningful first version and prove its value in the real world before scaling to all SVR sites.
+
+
+
+Backend (FastAPI)
+
+main.py
+
+Folder structure ready for you to paste in the full backend code we generated
+
+Basic health endpoint included
+
+✔️ Frontend (React Native / Expo)
+
+App.tsx skeleton
+
+Folder structure:
+
+src/screens/auth/
