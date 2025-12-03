@@ -1,0 +1,143 @@
+1. Slide deck outline (SVR Residents Hub)
+
+Think: 6–8 slides, clean, minimal text, big readable fonts.
+
+Slide 1 – Title
+
+Title: SVR Residents Hub – Digital Support for Scottish Veterans Residences
+Subtitle: A simple mobile app for residents at Whitefoord House, Rosendael & Bellrock Close
+Footer: Prepared by: John Sutherland (Resident & Veteran)
+
+Slide 2 – The Challenge
+
+Heading: The daily challenges residents face
+
+Hard to know who to speak to about housing, benefits, health or personal issues.
+
+Repairs and issues reported informally – easy to lose track.
+
+Important updates and events can be missed.
+
+Navigating external services (NHS, benefits, charities) is confusing and overwhelming.
+
+Sub-heading: The impact on staff
+
+Time spent answering the same questions multiple times.
+
+Manual logging and tracking of requests.
+
+Pressure to communicate quickly during changes or emergencies.
+
+Slide 3 – The Idea
+
+Heading: SVR Residents Hub – a pocket support hub
+
+A simple mobile app for residents + web dashboard for staff.
+
+Designed specifically for Scottish Veterans Residences.
+
+Co-created with residents and staff to be simple, clear and non-intimidating.
+
+Key aim:
+Make it easier to ask for help, get information and stay connected.
+
+Slide 4 – Core Features for Residents (MVP)
+
+Heading: What residents can do in the app
+
+Today at SVR (Home screen)
+
+Today’s meals, activities and events.
+
+Quick buttons: Contact Support, Report a Repair, My Appointments.
+
+Support Requests
+
+Ask for help with benefits, housing, mental health, employment or “other”.
+
+Mark urgency and preferred contact (in person / phone / message).
+
+See status of requests: new → in progress → closed.
+
+Maintenance / Repairs
+
+Report non-emergency repairs (category, location, description, later photos).
+
+Track whether requests have been received and actioned.
+
+Slide 5 – Features for Staff & SVR
+
+Heading: What staff gain
+
+Staff dashboard (web):
+
+View support and maintenance requests by residence and status.
+
+Post announcements and events to one or all residences.
+
+Manage a central resource library (links, PDFs, support contacts).
+
+Better communication & visibility:
+
+Clearer overview of resident needs and building issues.
+
+Less time spent on admin and chasing information.
+
+Early data to support reporting and future funding bids.
+
+Slide 6 – Technology & Safety
+
+Heading: Simple, secure, low-maintenance
+
+Modern, lightweight technology:
+
+Mobile app built once, runs on iOS and Android.
+
+Secure API and database hosted in the cloud.
+
+Staff dashboard accessible in a web browser.
+
+Built with GDPR and privacy in mind:
+
+Encrypted connections.
+
+Role-based access (resident / staff / admin).
+
+Only essential personal data stored.
+
+Slide 7 – Pilot Proposal
+
+Heading: Start small, prove value, then scale
+
+Pilot plan (6–12 weeks):
+
+Discovery & co-design
+
+Short interviews/workshops with residents and staff from one residence.
+
+Prototype & test
+
+Early version focused on Support Requests, Repairs, Announcements.
+
+Pilot launch in one site
+
+Training sessions with residents and staff.
+
+Review & scale
+
+Measure usage, gather feedback, refine.
+
+Decide on roll-out to all SVR residences.
+
+Slide 8 – What I’m Asking For
+
+Heading: How SVR and I can work together
+
+Permission to run a small discovery and prototype phase.
+
+A nominated staff contact / small working group (staff + residents).
+
+Agreement on a pilot site and simple success criteria (e.g. app usage, staff time saved, resident feedback).
+
+Closing line:
+“As a resident and veteran, I’d be proud to build this with SVR to make daily life a bit easier for the people who live here.”
